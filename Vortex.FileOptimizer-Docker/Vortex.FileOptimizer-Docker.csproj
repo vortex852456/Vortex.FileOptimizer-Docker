@@ -23,4 +23,8 @@
       <PackagePath></PackagePath>
     </None>
   </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="app\publish\" />
+  </ItemGroup>
 </Project>
